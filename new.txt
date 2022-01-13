@@ -1,0 +1,4 @@
+name:Pavel Alexandrovich Bal
+age: 24
+pets: 0
+Salary: 2000
