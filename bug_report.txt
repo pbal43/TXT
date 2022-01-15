@@ -2,7 +2,7 @@ id:1
 summary:"Неверное информирование клиента по эл. почте после оформления заказа за наличные"
 environment: "Windows 10 Pro, 21H1, ver. 19043.1466; Google Chrome ver. 97.0.4692.71 (x64)" 
 precondition: "*можно указать данные для логина*"
-status: "*not assigned*"
+status: "not assigned"
 submitted by: "pbal43"
 assigned to: "*кому направлен баг*"
 component: "*уведомления пользователя*"
